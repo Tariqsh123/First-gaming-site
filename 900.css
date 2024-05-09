@@ -1,0 +1,9 @@
+@media screen and (max-width: 900px){
+    .navbar input{
+        border-radius: 50px 50px 50px 50px;
+        text-align: center;
+        height: 50px;
+        width: 200px;
+        margin-top: 90px;
+    }
+}

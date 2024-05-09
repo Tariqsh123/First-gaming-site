@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+     background-color: black;
+}
+#nav{
+height: 200px;
+
+}
+.first{
+    height: 120px;
+
+}
+marquee{
+    height: 120px;
+    font-size: 100px;
+    color: white;
+    background-image: linear-gradient(rgb(2, 2, 2),rgb(83, 3, 3));
+}
+
+ul{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    font-size: 80px;
+    justify-content: center;
+    flex-direction: column;
+}
+ul li{
+    height: 80px;
+    margin-top: 100px;
+    
+}
+ul a {
+    text-decoration: none;
+    color: white;
+}
+li:hover{
+    background-color: rgb(139, 1, 1);
+}
